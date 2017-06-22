@@ -7,3 +7,9 @@ build/
 /.nb-gradle/profiles/private/
 /.nb-gradle/private/
 .nb-gradle-properties
+
+.idea/
+
+*.iml
+*.ipr
+*.iws
